@@ -7,4 +7,4 @@
 | 1.0.0  | :white_check_mark: |
 
 ## Reporting a Vulnerability
-As of now you can't report anything. Sorry!
+As of now you can report it here in github.
