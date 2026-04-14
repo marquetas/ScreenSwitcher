@@ -1,4 +1,5 @@
 # ScreenSwitcher
+<img width="954" height="686" alt="imagen" src="https://github.com/user-attachments/assets/fd162784-48cc-4c82-a0d6-e5f24624432b" />
 
 ## 🇬🇧 English
 
@@ -68,3 +69,4 @@ Puedes descargar la última versión desde la sección **Releases** de este repo
 
 ### 📄 Licencia
 Licencia MIT
+![Uploading imagen.png…]()
