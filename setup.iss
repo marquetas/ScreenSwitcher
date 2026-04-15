@@ -1,5 +1,5 @@
 #define MyAppName "ScreenSwitcher"
-#define MyAppVersion "1.0.0"
+#define MyAppVersion "1.1.0"
 #define MyAppExeName "main.exe"
 
 [Setup]
@@ -40,7 +40,7 @@ Source: "logo.ico"; DestDir: "{app}"; Flags: ignoreversion
 
 [Icons]
 Name: "{group}\ScreenSwitcher"; Filename: "{app}\{#MyAppExeName}"
-Name: "{commondesktop}\ScreenSwitcher"; Filename: "{app}\{#MyAppExeName}"; Tasks: desktopicon
+Name: "{userdesktop}\ScreenSwitcher"; Filename: "{app}\{#MyAppExeName}"; Tasks: desktopicon
 Name: "{group}\Desinstalar ScreenSwitcher"; Filename: "{uninstallexe}"
 
 [Run]
